@@ -1,0 +1,4 @@
+# Ignore zip files (cooked mod)
+*.zip
+# Ignore entirety of cooked folder
+Cooked
