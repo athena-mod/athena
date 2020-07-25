@@ -2,3 +2,4 @@
 *.zip
 # Ignore entirety of Saved folder
 Saved
+spec
